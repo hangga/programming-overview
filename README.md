@@ -1,6 +1,6 @@
 # Programming Languages Overview
 
-This document provides a comprehensive overview of various programming languages, their origins, primary use cases, and the paradigms they follow. It includes a range of languages from early computing history to modern-day innovations. Each entry in the table highlights key details, including the year of creation, the creators, and the main areas where the language excels, offering a quick reference for understanding the landscape of programming languages and their evolution.
+This document summarizes programming languages, highlighting their origins, uses, paradigms, and evolution over time.
 
 Feel free to [edit](https://github.com/hangga/programming-overview/fork) or adjust the wording based on your preferences!
 
